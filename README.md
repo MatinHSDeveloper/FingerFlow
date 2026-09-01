@@ -114,7 +114,7 @@ Future versions may introduce additional gestures and system controls.
 * [ ] Scroll gesture
 * [ ] Custom gesture configuration
 * [ ] Settings interface
-* [ ] Standalone `.exe` release
+* [x] Standalone `.exe` release
 
 ## 🤝 Contributing
 
